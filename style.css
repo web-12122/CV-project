@@ -1,0 +1,92 @@
+*{
+ margin:0;
+ padding:0;
+}
+
+body{
+ background-color:#EEE;
+}
+
+.contanar{
+      max-width: 1000px;
+      background-color: #E4F9E5;
+      margin-left: 30px;
+      margin-right: 30px;
+      padding: 20px;
+}
+
+header{
+}
+
+.image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: laft;
+}
+
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+          color: #11999e;
+}
+
+.header-contact{
+     float: right;
+     padding-top: 30px;
+}
+
+.header-contact a{
+   text-decoration: none;
+   color: teal;
+   font-width: bold;
+}
+
+.header-contact a:hover{
+        text-decoration: underline;
+        color: tomato;
+}
+
+.clear{
+  clear: both;
+}
+
+hr{
+  border: solid black 3px;
+  width: 100%;
+  margin: 20px auto;
+  border-bottom: none;
+}
+/*---------------------
+ personal section start
+---------------------*/
+#pearsonal-section{
+
+}
+
+.contrnt{
+
+}
+
+
+.left-div{
+   width: 30%;
+   float: left;
+}
+
+.right-div{
+  width: 70%;
+  float: left;
+}
+
+.comon-hr{
+     border: solid black 1px;
+     border-bottom: none;
+     width: 100%;
+     margin: 20px auto; 
+}   
+  
